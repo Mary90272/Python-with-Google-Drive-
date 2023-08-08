@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "onemore",
+  "private_key_id": "create your own key",
+  "private_key": "your key",
+  "client_email": "your key",
+  "client_id": "your key",
+  "auth_uri": "your key",
+  "token_uri": "your key",
+  "auth_provider_x509_cert_url": "",
+  "client_x509_cert_url": "",
+  "universe_domain": "googleapis.com"
+}
